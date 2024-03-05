@@ -1,5 +1,5 @@
 # Noter
-Introducing "Noter" – where your notes get a VIP treatment, no matter their format! Crafted by yours truly and Joel, this app is the note-taking powerhouse that lets you throw in everything – pictures, videos, text, whiteboard scribbles, and even your fancy code snippets.
+Introducing "Noter" – where your notes get a VIP treatment, no matter their format! This app is the note-taking powerhouse that lets you throw in everything – pictures, videos, text, whiteboard scribbles, and even your fancy code snippets.
 
 # Noter App Features:
 - **Multimedia Magic**: Snap a pic, record a video, jot down some text, doodle on a virtual whiteboard, or drop your code snippets. Noter embraces all types of notes like a champ.
