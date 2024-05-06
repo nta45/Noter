@@ -18,10 +18,10 @@ export default function Boxes() {
   const router = useRouter();
 
   return (
-    <div className="mt-48 flex flex-wrap gap-32 justify-center items-center">
+    <div className="mt-24 flex flex-wrap gap-8 justify-center items-center">
       {items.map((item) => (
         <div key={item[0]}>
-          <Card sx={{ maxWidth: 500, minHeight: 500 }}>
+          <Card sx={{ maxWidth: 300, minHeight: 100 }}>
             <CardActionArea>
               <CardMedia
                 component="img"
